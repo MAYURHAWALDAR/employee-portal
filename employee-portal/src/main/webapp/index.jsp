@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Employee Portal</title><link rel="stylesheet" href="css/style.css"></head><body><main><h1>Employee Portal</h1><p>CI/CD demo using GitHub, Jenkins, Maven, SonarQube, Amazon S3 and Tomcat.</p><a class="button" href="employees">View Employees</a></main></body></html>
